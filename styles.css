@@ -1,7 +1,19 @@
-.placeholder {
-    background-color: red;
+body {
+  background-image: url('Images/LAM_dark_background.png');
+}
+div.header {
+  background-image: url('Images/kristallen.jpg');
+  margin: 0px;
 }
 
-.anotherClass {
-    background-color: lightseagreen;
+h1{
+  margin: 0px;
+}
+
+p{
+  margin: 0px;
+}
+
+div.middle {
+  margin: 0px;
 }
